@@ -2,8 +2,10 @@
 
 imazen-26 is a corpus for testing image codecs and image processing.
 
-This repository holds the source files byte for byte. It includes JPEG, PNG,
-HEIC and DNG; their encoded metadata and orientation remain in the files.
+This repository holds JPEG, PNG and HEIC source files byte for byte;
+their encoded metadata and orientation remain in the files.
+The DNG originals and other XL images are in
+[imazen-xl-26](https://github.com/imazen/imazen-xl-26).
 
 Version 2026.10.19: 2109 images,
 2109 files, 4838631909 encoded bytes.
